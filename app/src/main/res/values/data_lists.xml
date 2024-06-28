@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="subjects_list">
+        <item>@string/Maths</item>
+        <item>History</item>
+        <item>Literature</item>
+        <item>Biology</item>
+        <item>Russian</item>
+        <item>English</item>
+        <item>Geography</item>
+    </string-array>
+
+    <string-array name="maths_themes">
+        <item>Planimetry</item>
+        <item>Vectors</item>
+        <item>Stereometry</item>
+        <item>The beginning of probability theory</item>
+        <item>Probabilities of complex events</item>
+        <item>The simplest equations</item>
+        <item>Calculations and Conversions</item>
+        <item>Derivative and antiderivative</item>
+        <item>Tasks with applied content</item>
+        <item>Text assignments</item>
+        <item>Function graphs</item>
+        <item>Largest and smallest value functions</item>
+        <item>Equations</item>
+        <item>Stereometric task</item>
+        <item>Inequalities</item>
+        <item>Financial mathematics</item>
+        <item>Planimetric task</item>
+        <item>Task with parameter</item>
+        <item>Numbers and their properties</item>
+    </string-array>
+
+    <string-array name="history_themes">
+        <item>Systematization of historical information</item>
+        <item>Determining the sequence of historical events</item>
+        <item>Working with information presented in table form</item>
+        <item>Knowledge of historical figures of the 8th – early 21st centuries</item>
+        <item>Analysis of textual historical sources</item>
+        <item>Working with images Great Patriotic War</item>
+        <item>Analysis of historical maps, diagrams</item>
+        <item>Correspondence between information from the historical map and the text</item>
+        <item>Determining the Characteristics of a Historical Source</item>
+        <item>Search for historical information</item>
+        <item>Analysis of illustrative material</item>
+        <item>Working with a historical source</item>
+        <item>Establishing cause-and-effect connection</item>
+        <item>Testing knowledge of historical concepts</item>
+        <item>Comparison of historical events</item>
+        <item>Argumentation using historical facts</item>
+    </string-array>
+
+    <string-array name="literature_themes">
+        <item>Domestic and foreign prose</item>
+        <item>Compliance tasks</item>
+        <item>Use of terminology (epic and drama)</item>
+        <item>Detailed answer on the selected topic</item>
+        <item>Use of terminology (lyrics)</item>
+        <item>Visual and expressive means, figures, rhymes</item>
+        <item>Definition of artistic means in poetry</item>
+        <item>Comparison of poetic works</item>
+        <item>Composition</item>
+    </string-array>
+
+    <string-array name="biology_themes">
+        <item>Biology as a science</item>
+        <item>Prediction of experiment results</item>
+        <item>Solving biological calculation problems</item>
+        <item>Crossbreeding</item>
+        <item>Cell, organism</item>
+        <item>Diversity of organisms</item>
+        <item>Main systematic categories</item>
+        <item>Human organism</item>
+        <item>Human body and human hygiene</item>
+        <item>Evolution of living nature</item>
+        <item>Ecosystems and their inherent patterns</item>
+        <item>Living environments. Biosphere</item>
+        <item>General biological patterns</item>
+        <item>Biological systems and their patterns</item>
+        <item>Experimental methodology</item>
+        <item>Conclusions from the experiment</item>
+        <item>Analysis of text and graphic information</item>
+        <item>Man and the diversity of organisms</item>
+        <item>Evolution and ecological patterns</item>
+        <item>Cytology task</item>
+        <item>Genetics task</item>
+    </string-array>
+
+    <string-array name="russian_themes">
+        <item>Means of communication of offers</item>
+        <item>Definition of lexical meaning</item>
+        <item>Stylistic analysis of texts</item>
+        <item>Setting the accent</item>
+        <item>Using paronyms</item>
+        <item>Lexical norms</item>
+        <item>Morphological norms</item>
+        <item>Syntactic norms</item>
+        <item>Spelling of roots</item>
+        <item>Spelling of prefixes</item>
+        <item>Spelling suffixes</item>
+        <item>Spelling personal endings of verbs and participle suffixes</item>
+        <item>Spelling "НЕ" and "НИ"</item>
+        <item>Integrated, hyphenated, separate spelling of words</item>
+        <item>Spelling "-Н-" and "-НН-" in suffixes</item>
+        <item>Punctuation in a complex sentence and in a sentence with homogeneous members</item>
+        <item>Punctuation marks in sentences with isolated members</item>
+        <item>Punctuation marks for words and constructions not related to sentence members</item>
+        <item>Punctuation marks in a complex sentence</item>
+        <item>Punctuation marks in complex sentences with different types of connections</item>
+        <item>Placement of punctuation marks in various cases</item>
+        <item>Semantic and compositional integrity of the text</item>
+        <item>Functional and semantic types of speech</item>
+        <item>Lexical meaning of the words</item>
+        <item>Means of connecting sentences in the text</item>
+        <item>Language means of expression</item>
+        <item>Composition</item>
+    </string-array>
+
+    <string-array name="english_themes">
+        <item>Understanding the main content of the text you listened to</item>
+        <item>Highlighting information in a listened text</item>
+        <item>Full understanding of spoken language: interview</item>
+        <item>Understanding the main content of the text</item>
+        <item>Understanding structural and semantic connections in the text</item>
+        <item>Full understanding of the information in the text</item>
+        <item>Grammar skills</item>
+        <item>Lexico-grammatical skills</item>
+        <item>Personal email</item>
+        <item>An extended written statement based on a table or graph</item>
+        <item>Reading the text out loud</item>
+        <item>Conditional dialogue-questioning</item>
+        <item>Monologue</item>
+    </string-array>
+
+    <string-array name="geography_themes">
+        <item>Geographical models. Map and area plan</item>
+        <item>Lithosphere. Atmosphere. Hydrosphere</item>
+        <item>Earth is like a planet. Basic patterns</item>
+        <item>The world ocean and its parts. Water, land</item>
+        <item>Features of nature</item>
+        <item>Urban and rural population. Cities</item>
+        <item>Geographical features of population distribution</item>
+        <item>Natural resources. Nature management</item>
+        <item>Geography of Russian industries. Exporting countries of the world</item>
+        <item>World economy. Economy of Russia. Regions of Russia</item>
+        <item>Weather and climate. Distribution of heat and moisture on Earth</item>
+        <item>Signs of geographical objects and phenomena</item>
+        <item>Stages of the geological history of the earth\'s crust. Geological chronology</item>
+        <item>Time zones</item>
+        <item>Lack of resources</item>
+        <item>Direction and types of migration of the Russian population</item>
+        <item>Geographical characteristics of major countries of the world</item>
+        <item>Natural and economic zoning of Russia. Regions of Russia</item>
+        <item>Urban and rural populations of the world</item>
+        <item>Peculiarities of the nature of continents and oceans. Geographical envelope</item>
+        <item>Level and quality of life of the population</item>
+        <item>Geography of the main industries of production and non-production spheres</item>
+        <item>Lithosphere. Hydrosphere. Atmosphere. Biosphere. Noosphere</item>
+        <item>Earth as a planet, the modern appearance of the planet</item>
+        <item>Features of the impact on the environment. Geographical envelope of the Earth</item>
+    </string-array>
+</resources>
